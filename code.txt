@@ -7,3 +7,5 @@ Whatsapp code :
 3. Last seen code
 
 4. Hiding the last seen.
+
+5. Adding the video call feature
